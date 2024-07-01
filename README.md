@@ -26,7 +26,7 @@ Clone the repository:
 * Review the items in your cart and proceed to checkout.
 
 ## Screenshots
-![Product List Screen](belt.jpg)![Checkout Screen][]![Checkout Screen][]
+![Product List Screen](products.jpg)![Checkout Screen](checkout.jps)![OrderSuccess Screen](order_success.jpg)
 
 ## Technologies Used
 - Flutter
